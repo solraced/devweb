@@ -3,11 +3,11 @@ Segue aqui meu estudos de Dev Web com comandos HTML apenas.
 A primeira etapa dos meus estudos de HTML começa com Listas.
 Temos três tipos de listas HTML, as Ordenadas, as Não Ordenadas e as de Definição.
 
-<h1>Listas Ordenadas <code><ol></code> (order list)</h1> 
+<h1><code>Listas Ordenadas &ltol&gt (order list)</code></h1> 
 
 Sem especificação, fica em numeral.
-Para alterarmos os tipos de marcadores, usamos na tag o parâmetro type.
-<ol type=”( 1, A, a, I, i)”>
+Para alterarmos os tipos de marcadores, usamos na tag o parâmetro type.<br>
+<code><ol type=”( 1, A, a, I, i)”></code>
 	
 Se quisermos para a lista iniciar de uma posição diferente, usamos depois de type o parâmetro start = “posição desejada”.
 <ol type=”A” start=”4”>
